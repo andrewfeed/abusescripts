@@ -31,7 +31,12 @@
 }
 ```
 Обозначения интуитивно понятные, позже появиться пояснения.  
-
+  
+  
+:moneybag: BTC: 1KsmhV3y2niwb1ppWjgT5HYaxSZmaYWPHb  
+:moneybag: ETH: 0x8d37ab44266f205cf9b2ceda8d617cc250a72a2a  
+  
+сhecksums
 ```
 SHA-1 158530D9B39B100A237A5940BCC8F8A193D64D92
 SHA-256 5E86807FBF5633F5F39F9312587330F72494113B2DB51BC37904B83248D32FD0
