@@ -1,4 +1,7 @@
-# abuse scripts :fire:
+# abuse scripts :fire:  
+[![Generic badge](https://img.shields.io/badge/DOWNLOAD-red.svg)](https://github.com/andrewfeed/abusescripts/releases)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/kDY9kqdX)  
+  
 :warning: WARNING ABOUT POSSIBLE SEARCH BLOCKING :warning:  
 ### Что это такое? ###
 Это софт, который предназначен для автоматического управления персонажем во время абуза уровня персонажа dota+.
