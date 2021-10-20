@@ -35,6 +35,8 @@
   
 :moneybag: BTC: 1KsmhV3y2niwb1ppWjgT5HYaxSZmaYWPHb  
 :moneybag: ETH: 0x8d37ab44266f205cf9b2ceda8d617cc250a72a2a  
+
+[![](https://img.youtube.com/vi/MsRkVEhXdKI/mqdefault.jpg)](https://www.youtube.com/watch?v=MsRkVEhXdKI)
   
 сhecksums
 ```
