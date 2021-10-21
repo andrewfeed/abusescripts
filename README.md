@@ -12,6 +12,9 @@
 + Meepo (спам сеток по двум + время в сетке)
 + Ivoker (стенка, метеор, емп)
 + Spam - Dazzle, Omniknight, Ogre Magi, Rubick (спам клавиши)
+### Системные требования и необходимые настройки ###
++ .NET Framework 4.5
++ Монитор с разрешением экрана не менее 800x600
 ### Настройка таймингов ###
 Вы можете устанавливать свои тайминги для ваших нужд.
 Для этого необходимо открыть файл settings.json и изменить соответствующие поля.  
@@ -37,6 +40,7 @@
 :moneybag: ETH: 0x8d37ab44266f205cf9b2ceda8d617cc250a72a2a  
 
 [![](https://img.youtube.com/vi/MsRkVEhXdKI/mqdefault.jpg)](https://www.youtube.com/watch?v=MsRkVEhXdKI)
+[![](https://img.youtube.com/vi/ZtLpjGkC5mY/mqdefault.jpg)](https://www.youtube.com/watch?v=ZtLpjGkC5mY)
   
 сhecksums
 ```
