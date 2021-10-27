@@ -42,6 +42,7 @@
 
 [![](https://img.youtube.com/vi/MsRkVEhXdKI/mqdefault.jpg)](https://www.youtube.com/watch?v=MsRkVEhXdKI)
 [![](https://img.youtube.com/vi/ZtLpjGkC5mY/mqdefault.jpg)](https://www.youtube.com/watch?v=ZtLpjGkC5mY)
+[![](https://img.youtube.com/vi/80AMw7u9LE0/mqdefault.jpg)](https://www.youtube.com/watch?v=80AMw7u9LE0)
   
 сhecksums
 ```
