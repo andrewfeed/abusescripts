@@ -1,6 +1,10 @@
-# abuse scripts :fire:  
+# [FIXED] abuse scripts :fire:  
 [![Generic badge](https://img.shields.io/badge/DOWNLOAD-red.svg)](https://github.com/andrewfeed/abusescripts/releases)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/kDY9kqdX)  
+  
+:warning: УЯЗВИМОСТЬ ПРИКРЫЛИ ОГРАНИЧЕНИЕМ ПОЛУЧАЕМОГО ОПЫТА ЗА МАТЧ :warning:  
+:warning: УЯЗВИМОСТЬ ПРИКРЫЛИ ОГРАНИЧЕНИЕМ ПОЛУЧАЕМОГО ОПЫТА ЗА МАТЧ :warning:  
+:warning: УЯЗВИМОСТЬ ПРИКРЫЛИ ОГРАНИЧЕНИЕМ ПОЛУЧАЕМОГО ОПЫТА ЗА МАТЧ :warning:  
   
 :warning: WARNING ABOUT POSSIBLE SEARCH BLOCKING :warning:  
 ### Что это такое? ###
